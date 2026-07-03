@@ -1,7 +1,7 @@
 ---
 layout: page
 title: sobre
-permalink: /sobre/
+permalink: /about/
 ---
 
 
