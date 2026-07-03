@@ -29,10 +29,6 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: Thiago
-  card: summary
-logo: fotoperfil.png
 social:
   name: Thiago Martins
   links:

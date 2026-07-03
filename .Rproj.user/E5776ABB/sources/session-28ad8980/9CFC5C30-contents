@@ -1,5 +1,5 @@
 ---
-title: "2026-07-03-Bem-vindo-ao-meu-portifolio"
+title: "Bem-vindo ao meu portifólio"
 output: html_document
 ---
 
