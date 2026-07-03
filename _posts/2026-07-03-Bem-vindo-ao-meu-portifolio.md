@@ -1,7 +1,8 @@
 ---
-title: "2026-07-03-Bem-Vindo-ao-meu-portifolio"
+title: "2026-07-03-Bem-vindo-ao-meu-portifolio"
 output: html_document
 ---
+
 
 Olá! Seja bem-vindo(a) ao meu portfólio.
 
